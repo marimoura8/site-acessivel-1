@@ -1,14 +1,10 @@
 # Site acessível sobre Baleias
-# Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
-## Recursos de acessibilidade
-- Atributos aria
-- alt
-- tab-index
-- menu de acessibilidade
-## Tecnologias utilizadas
-- Bootstrap
-- ScrollRevealjs
-- HTML
-- CSS
-- JS
+# Baleias
+As baleias são animais aquáticos que se destacam por seu grande porte. Algumas espécies podem atingir mais de 25 metros de comprimento.
+## Curiosidades sobre elas
+- Tamanho
+- Peso
+- Origem
+- Se existem no Brasil
+## Quais tipos existem?
+
